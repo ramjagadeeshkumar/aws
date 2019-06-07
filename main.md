@@ -10,8 +10,8 @@
 
 # EC2 Administrator
 
-[clickhere](ec2_instance.md)
+[clickhere](./ec2_instance.md)
 
 # cloudformation
 
-[clickhere](cloudformation)
+[clickhere](./cloudformation)
